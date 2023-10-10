@@ -3,7 +3,7 @@ languageName = "English"
 weight = 1
 
 title = "lllkmn"
-copyright = "©️ Lukman Hakim 2023"
+copyright = ""
 
 [params]
   isoCode = "en"
@@ -16,13 +16,13 @@ copyright = "©️ Lukman Hakim 2023"
   description = "Lukman Hakim website"
 
 [author]
-  name = "Lukman Hakim"
-  #image = "images/logo_light.png"
-  headline = "Art, Music, Software, And Games Creator."
+  name = "LLL"
+  image = "images/lll_avatar.png"
+  headline = "Tech Artist"
   bio = "Art, Music, Software, And Games Creator."
   links = [
-     { email = "mailto:still.lkmn@hotmail.com" },
-     { link = "https://naiive.web.app/" },
+  #   { email = "mailto:still.lkmn@hotmail.com" },
+  #   { link = "https://naiive.web.app/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -32,7 +32,7 @@ copyright = "©️ Lukman Hakim 2023"
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
-  #   { foursquare = "https://foursquare.com/username" },
+  #   { foursquare = "https://codepen.io/username" },
      { github = "https://github.com/illlustr" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
