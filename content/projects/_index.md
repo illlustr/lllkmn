@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-layout: "projects"
-externalName: "GitHub"
+externalName: "More projects"
 externalUrl: "https://github.com/illlustr"
 ---
