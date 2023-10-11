@@ -20,7 +20,7 @@ fingerprintAlgorithm = "sha256"
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   logo = "/images/home.png"
   #logoDark = "/images/logo_dark.png"
-  showTitle = false
+  showTitle = true
 
 [footer]
   showCopyright = false
@@ -34,21 +34,21 @@ fingerprintAlgorithm = "sha256"
   recentLimit = 5
 
 [article]
-  showDate = true
-  showDateUpdated = true
+  showDate = false
+  showDateUpdated = false
   showAuthor = false
   showBreadcrumbs = false
-  showDraftLabel = true
-  showEdit = true
+  showDraftLabel = false
+  showEdit = false
   editURL = "https://github.com/illlustr/lllkmn/"
   editAppendPath = true
-  showHeadingAnchors = true
-  showPagination = true
+  showHeadingAnchors = false
+  showPagination = false
   invertPagination = true
   showReadingTime = true
-  showTableOfContents = true
-  showTaxonomies = true
-  showWordCount = true
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = false
   showComments = false
   # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
 
