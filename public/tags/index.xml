@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on lll</title>
-    <link>https://illlustr.github.io/lllkmn/tags/</link>
+    <link>https://lkmn.web.app/tags/</link>
     <description>Recent content in Tags on lll</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://illlustr.github.io/lllkmn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lkmn.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Service</title>
-      <link>https://illlustr.github.io/lllkmn/tags/service/</link>
+      <link>https://lkmn.web.app/tags/service/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://illlustr.github.io/lllkmn/tags/service/</guid>
+      <guid>https://lkmn.web.app/tags/service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>https://illlustr.github.io/lllkmn/tags/technology/</link>
+      <link>https://lkmn.web.app/tags/technology/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://illlustr.github.io/lllkmn/tags/technology/</guid>
+      <guid>https://lkmn.web.app/tags/technology/</guid>
       <description></description>
     </item>
     
