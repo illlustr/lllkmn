@@ -3,6 +3,11 @@ title: About
 layout: "simple"
 ---
 
+{{< alert>}}
+🚧 Work In Progress.
+{{< /alert >}}
+
+
 <div style="display: flex;">
 {{< figure
     src="images/profile.png"
@@ -31,14 +36,14 @@ layout: "simple"
 </div>
 </div>
 
-{{< alert >}}
-Work In Progress
-{{< /alert >}}
-
-## Education
-
 ## Languages
 
 ## Skills
 
 ## Interests
+
+---
+
+{{< alert "email" >}}
+more information, including my **CV** on [Email](mailto:still.lkmn@hotmail.com) 📨
+{{< /alert >}}
