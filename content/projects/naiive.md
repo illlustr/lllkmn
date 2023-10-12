@@ -1,9 +1,9 @@
 ---
 title: NAIIVE
 icon: naiive
-weight: 1
+weight: 100
 description: >
-    Share and adapting technology services.
+    Technology adaptation service.
 tags: [Service, Technology]
 externalUrl: https://github.com/naiiveprojects
 ---
