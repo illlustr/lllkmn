@@ -3,28 +3,24 @@ title: About
 layout: "simple"
 ---
 
-{{< alert>}}
-🚧 Work In Progress.
-{{< /alert >}}
-
-
-<div style="display: flex;">
+<div style="display: flex; align-items: top;">
+<div style="width: 384px; height: 384px;">
 {{< figure
     src="images/profile.png"
     alt="Abstract purple artwork"
     >}}
-
+</div>
 <div style="align-items: left; margin: 13px;">
-    <p>Hello 👋, I'm <b>Lukman Hakim</b>. I enjoy tinkering and creating various things, some of which are:</p>
+    <p>Hello 👋, my name is <b>Lukman Hakim</b>. I enjoy tinkering and creating various things.</p>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;"> <!-- Add gap for spacing -->
-      {{< badge >}}UI/UX Design & Integration{{< /badge >}}
-      {{< badge >}}Music (BGM, SFX, Ambient){{< /badge >}}
-      {{< badge >}}Drawing, Animation, & Rigging{{< /badge >}}
-      {{< badge >}}Custom Tools & Automation{{< /badge >}}
-      {{< badge >}}Mobile, Desktop, & Web Apps{{< /badge >}}
-      {{< badge >}}Making Games!{{< /badge >}}
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    {{< badge >}}UI/UX Design & Integration{{< /badge >}}
+    {{< badge >}}Music (BGM, SFX, Ambient){{< /badge >}}
+    {{< badge >}}Drawing, Animation, & Rigging{{< /badge >}}
+    {{< badge >}}Custom Tools & Automation{{< /badge >}}
+    {{< badge >}}Mobile, Desktop, & Web Apps{{< /badge >}}
+    {{< badge >}}Making Games!{{< /badge >}}
+</div>
 
   <i>get in touch </i>
   [{{< icon "email" >}}](mailto:still.lkmn@hotmail.com)
@@ -38,9 +34,21 @@ layout: "simple"
 
 ## Languages
 
+{{< alert>}}
+Work In Progress.
+{{< /alert >}}
+
 ## Skills
 
+{{< alert>}}
+Work In Progress.
+{{< /alert >}}
+
 ## Interests
+
+{{< alert>}}
+Work In Progress.
+{{< /alert >}}
 
 ---
 
