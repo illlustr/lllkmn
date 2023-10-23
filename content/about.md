@@ -11,7 +11,10 @@ layout: "simple"
     >}}
 </div>
 <div style="align-items: left; margin: 13px;">
-    <p>Hello 👋, my name is <b>Lukman Hakim</b>. I enjoy tinkering and creating various things.</p>
+
+<p>Hello 👋, my name is <b>Lukman Hakim</b>.
+
+I enjoy learning, tinkering, and creating various things.</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     {{< badge >}}UI/UX Design & Integration{{< /badge >}}
@@ -31,27 +34,3 @@ layout: "simple"
   [WhatsApp](https://wa.me/+62881024815075)
 </div>
 </div>
-
-## Languages
-
-{{< alert>}}
-Work In Progress.
-{{< /alert >}}
-
-## Skills
-
-{{< alert>}}
-Work In Progress.
-{{< /alert >}}
-
-## Interests
-
-{{< alert>}}
-Work In Progress.
-{{< /alert >}}
-
----
-
-{{< alert "email" >}}
-more information, including my **CV** on [Email](mailto:still.lkmn@hotmail.com) 📨
-{{< /alert >}}

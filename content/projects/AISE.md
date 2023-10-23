@@ -1,7 +1,7 @@
 ---
 title: AISE
-icon: mobile
-weight: 101
+icon: sparkles
+weight: 102
 description: >
     Image generator & manipulation tool featuring the latest AI technology.
 tags: [Artificial Intelegent, Android, Web, Windows, MacOS, Linux]

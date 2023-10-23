@@ -5,5 +5,5 @@ weight: 100
 description: >
     Technology adaptation service.
 tags: [Service, Technology]
-externalUrl: https://github.com/naiiveprojects
+externalUrl: https://naiive.web.app/
 ---
