@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "lll"
+title = "illlustr"
 copyright = ""
 
 [params]
@@ -16,9 +16,9 @@ copyright = ""
   description = "Lukman Hakim website"
 
 [author]
-  name = "LLL"
+  name = "illlustr"
   image = "images/lll_avatar.png"
-  headline = "Tech Artist"
+  headline = "Technical Artist"
   bio = "Art, Music, Software, And Games Creator."
   links = [
   #   { email = "mailto:still.lkmn@hotmail.com" },

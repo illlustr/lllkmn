@@ -2,10 +2,10 @@
 headImage: ""
 ---
 
-👋 I enjoy creating a variety of things.
+👋 Hi!, I enjoy creating a variety of things.
 
-Currently, **do** a couple of **things** on **⨝**.
+Currently, **do** a couple of **things** on **NA\\\VE**.
 
 {{< button href="https://naiive.web.app/" target="https://naiive.web.app/" >}}
-Visit ⨝
+Visit NA\\VE
 {{< /button >}}
