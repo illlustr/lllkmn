@@ -69,6 +69,7 @@ header {
     align-items: center;
     margin: var(--default-margin) auto;
     color: var(--header-footer-color);
+    margin-top: 8px;
 }
 
 header div {
@@ -102,6 +103,7 @@ footer {
     margin: var(--default-margin) auto;
     color: var(--header-footer-color);
     margin-top: auto;
+    margin-bottom: 8px;
 }
 
 /* Typography */
@@ -133,7 +135,6 @@ p {
 
 .hero h4 {
     margin-bottom: 16px;
-    font-weight: lighter;
     color: #b1b1b1;
 }
 
